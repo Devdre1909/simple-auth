@@ -2,7 +2,7 @@
 
 ## Usage
 
-Rename ".env" to ".env.local" and update the values/settings to your own.
+Create ".env.local" and update the values/settings to your own.
 
 ## Install Dependencies
 
