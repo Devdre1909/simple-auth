@@ -115,5 +115,7 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# env
+# local env files
 .env.local
+.env.*.local
+
